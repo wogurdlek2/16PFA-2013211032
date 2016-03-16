@@ -1,11 +1,3 @@
-print " Hello World!"
-print "Hello Again"
-print "I like typing this."
-print "This is fun."
-print 'Yay! Printing.'
-print "I'd much rather you 'not'."
-print 'I "said" do not touch this.'
-
 print "Hens", 25 + 30 / 6
 print "Roosters", 100 - 25 * 3 % 4
 #comment shit i dont know %
@@ -26,3 +18,4 @@ print "How about some more."
 
 print "Is it greater?", 5 > -2
 print "Is it greater or equal?", 5 >= -2
+#-*-coding:cp949
